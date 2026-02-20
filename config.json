@@ -1,52 +1,52 @@
 {
   "hotel": {
-    "name": "Hotel Musterhaus",
-    "id": "A0000",
-    "url": "https://www.example.com",
-    "phone": "+39 0474 000000",
-    "email": "info@example.com",
-    "bookingUrl": "https://www.example.com/buchen"
+    "name": "Weinegg",
+    "id": "A0007",
+    "url": "https://www.weinegg.com/",
+    "phone": "",
+    "email": "",
+    "bookingUrl": "https://www.weinegg.com/"
   },
   "theme": {
     "colors": {
-      "primary": "#2c5f2d",
-      "secondary": "#97bc62",
-      "accent": "#d4a843",
-      "text": "#1a1a1a",
-      "textLight": "#6b7280",
-      "background": "#fafaf8",
-      "backgroundAlt": "#f0ebe3",
+      "primary": "#58534B",
+      "secondary": "#5E5B5A",
+      "accent": "#7A7976",
+      "text": "#5D5A59",
+      "textLight": "#797976",
+      "background": "#ffffff",
+      "backgroundAlt": "#58564B",
       "white": "#ffffff"
     },
     "fonts": {
-      "heading": "Cormorant Garamond",
-      "body": "Lato"
+      "heading": "Constantia",
+      "body": "Source Sans Pro"
     }
   },
   "hero": {
-    "text": "Willkommen im Paradies",
-    "description": "Erleben Sie unvergessliche Momente inmitten der Südtiroler Bergwelt. Ihr Rückzugsort für Körper und Seele.",
-    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=1600&q=80",
+    "text": "Urlaubsglück zwischen Weinbergen und Alpen",
+    "description": "Mediterranes Flair trifft alpine Gemütlichkeit. Genießen Sie Wellness auf 1.700m² und kulinarische Höhepunkte in unserem 5-Sterne-Resort.",
+    "image": "https://www.weinegg.com/images/content/99443_11855_1_C_1920_1080_0_3837256/g7a1373.jpg",
     "ctaText": "Jetzt anfragen",
-    "ctaUrl": "https://www.example.com/buchen"
+    "ctaUrl": "https://www.weinegg.com/"
   },
   "sections": {
     "about": {
       "enabled": true,
       "title": "Über uns",
-      "text": "Seit Generationen heißen wir Gäste aus aller Welt willkommen. Unser Haus verbindet alpinen Charme mit modernem Komfort.",
-      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"
+      "text": "Das Hotel Weinegg liegt idyllisch zwischen Weinterrassen und Berggipfeln bei Eppan in Südtirol. Unser 5-Sterne-Wellnesshotel vereint mediterrane Leichtigkeit mit alpiner Gemütlichkeit und bietet einen 1.700m² großen Wellviva SPA für pure Entspannung.",
+      "image": "https://www.weinegg.com/images/content/104306_11855_1_C_1920_1080_0_3643098/231027103816.jpg"
     },
     "gallery": {
       "enabled": true,
       "title": "Impressionen",
       "images": [
-        "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=600&q=80",
-        "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=600&q=80",
-        "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=600&q=80",
-        "https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=600&q=80",
-        "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=600&q=80",
-        "https://images.unsplash.com/photo-1578683010236-d716f9a3f461?w=600&q=80"
+        "https://www.weinegg.com/images/content/104306_11855_1_C_1920_1080_0_3643098/231027103816.jpg",
+        "https://www.weinegg.com/images/content/102657_11855_1_C_1920_1080_0_2402497/k.abendstimmung.60suitenpool.jpg",
+        "https://www.weinegg.com/images/content/99469_11855_1_C_1920_1080_0_2371761/k.180424213207.jpg",
+        "https://www.weinegg.com/images/content/104540_11855_1_C_1920_1080_0_3663149/231027114119.jpg",
+        "https://www.weinegg.com/images/content/103354_11855_1_C_1920_1080_0_3916452/weinegg.apartment.5.-weinegg.jpg",
+        "https://www.weinegg.com/images/content/99473_11855_1_C_1780_916_0_3895611/g7a7913.jpg"
       ]
     },
     "cta": {
@@ -54,10 +54,10 @@
       "title": "Bereit für Ihren Traumurlaub?",
       "text": "Sichern Sie sich jetzt Ihren Wunschtermin.",
       "buttonText": "Verfügbarkeit prüfen",
-      "buttonUrl": "https://www.example.com/buchen"
+      "buttonUrl": "https://www.weinegg.com/"
     }
   },
   "footer": {
-    "text": "© 2026 Hotel Musterhaus. Alle Rechte vorbehalten."
+    "text": "© 2026 Weinegg. Alle Rechte vorbehalten."
   }
 }
